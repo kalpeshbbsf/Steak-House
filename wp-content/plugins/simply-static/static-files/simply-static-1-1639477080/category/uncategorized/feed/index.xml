@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Steak House</title>
-	<atom:link href="https://kalpeshbbsf.github.io/Wordpress-Website/feed/" rel="self" type="application/rss+xml" />
+	<title>Uncategorized &#8211; Steak House</title>
+	<atom:link href="https://kalpeshbbsf.github.io/Wordpress-Website/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>https://kalpeshbbsf.github.io/Wordpress-Website/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Mon, 13 Dec 2021 04:31:36 +0000</lastBuildDate>
@@ -35,7 +35,7 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://kalpeshbbsf.github.io/Wordpress-Website/2021/12/13/hello-world/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
+			<slash:comments>2</slash:comments>
 		
 		
 			</item>
